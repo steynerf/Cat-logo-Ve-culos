@@ -1,0 +1,15 @@
+{
+  "name": "Catálogo de Veículos",
+  "short_name": "Carros",
+  "description": "Catálogo pessoal de veículos vendidos no Brasil, com dados oficiais de consumo (Inmetro/PBE), fotos, preço FIPE e calculadora de custo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f3ef",
+  "theme_color": "#3B82F6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
